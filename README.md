@@ -45,9 +45,12 @@ Here's a walkthrough of implemented required features:
 
 https://imgur.com/PnDa5ur.gif
 <div>
-    <a href="https://www.loom.com/share/9c1f18b4fca2403ba40914ea5fdca7bf"> </a>
-    <a href="https://www.loom.com/share/9c1f18b4fca2403ba40914ea5fdca7bf">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9c1f18b4fca2403ba40914ea5fdca7bf-c4be19f43eb4706c-full-play.gif">
+    <div>
+    <a href="https://www.loom.com/share/65925d8e021040dfaf84739ca031ce7c">
+      
+    </a>
+    <a href="https://www.loom.com/share/65925d8e021040dfaf84739ca031ce7c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/65925d8e021040dfaf84739ca031ce7c-12b8159cac72974a-full-play.gif">
     </a>
   </div>
 
