@@ -43,7 +43,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/PnDa5ur.gif
+<div>
+    <a href="https://www.loom.com/share/9c1f18b4fca2403ba40914ea5fdca7bf"> </a>
+    <a href="https://www.loom.com/share/9c1f18b4fca2403ba40914ea5fdca7bf">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9c1f18b4fca2403ba40914ea5fdca7bf-c4be19f43eb4706c-full-play.gif">
+    </a>
+  </div>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
