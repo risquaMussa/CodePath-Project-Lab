@@ -41,3 +41,30 @@ h4 {
     margin: 4px 0;
   }
 }
+.shuffle-button {
+  background-color: rgb(182, 187, 75);
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  margin: 1rem auto;
+  display: inline-block;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+}
+.shuffle-button:hover {
+  background-color: lightyellow;
+  color: black;
+}
+.button,
+.shuffle-button {
+  justify-content: row;
+  display: space-between;
+}
