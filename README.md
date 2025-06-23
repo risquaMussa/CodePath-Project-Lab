@@ -1,12 +1,12 @@
 # React + Vite
 
-T# Web Development Project 2 - *Flashcard Part one*
+T# Web Development Project 3- *Flashcard Part two*
 
 Submitted by: **Risqua Mussa**
 
 This web app: **Enhance your learning with dynamic flashcards that flip to reveal answers. Cards can include visually styled by category for better organization and engagement.**
 
-Time spent: **8 to 9 ** hours spent in total
+Time spent: **7 ** hours spent in total
 
 ## Required Features
 
@@ -42,15 +42,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+https://imgur.com/a/geGFgyl.gif
 
-https://imgur.com/PnDa5ur.gif
 <div>
-    <div>
-    <a href="https://www.loom.com/share/65925d8e021040dfaf84739ca031ce7c">
-      
-    </a>
-    <a href="https://www.loom.com/share/65925d8e021040dfaf84739ca031ce7c">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/65925d8e021040dfaf84739ca031ce7c-12b8159cac72974a-full-play.gif">
+    <a href="https://www.loom.com/share/b5bfb83749554688b8a6c1b60b770220">
+     </a>
+    <a href="https://www.loom.com/share/b5bfb83749554688b8a6c1b60b770220">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b5bfb83749554688b8a6c1b60b770220-3daee3da8b49eb40-full-play.gif">
     </a>
   </div>
 
