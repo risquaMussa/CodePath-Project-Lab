@@ -1,11 +1,11 @@
 import "./App.css";
 
+import CatDiscover from "./components/CatDiscover";
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Welcome to My React App</h1>
-        <p>This is a simple React application.</p>
+        <CatDiscover />
       </header>
     </div>
   );
